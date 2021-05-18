@@ -1,0 +1,11 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "owlutils"
+author = "Shashank Kumar"
+author-email = "me@shashankkumar.com"
+home-page = "https://github.com/shashankkr9/owlutils"
+classifiers = [ "License :: OSI Approved :: MIT License",]
+
